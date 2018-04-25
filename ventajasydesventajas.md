@@ -20,4 +20,4 @@
 ![Resultado de imagen para ventajas y desventajas de IOS](https://camo.githubusercontent.com/2fa31701abe46908f449fdac021901c795cedbb3/68747470733a2f2f706172656e74657369732e636f6d2f696d61676573506f7374732f61727469636c65732d32363039305f7265637572736f5f6a70672e6a7067)
 
 
-(Ventajas y desventajas)[https://alain2701.github.io/Proyecto-Integrador/ventajasydesventajas]
+(Pagina de inicio)[https://alain2701.github.io/Proyecto-Integrador/]
