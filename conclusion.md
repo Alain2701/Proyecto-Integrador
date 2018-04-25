@@ -3,3 +3,5 @@ Para finalizar con este tema, podemos deducir que existen muchos sistemas operat
 Hay miles de alternativas, nosotros como la comunidad tenemos la decisión de escoger el que queramos.
 
 ![Resultado de imagen para iphone](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/sfaq/sfaq-iphone_2x.png)
+
+[Pagina de inicio](https://alain2701.github.io/Proyecto-Integrador/)
