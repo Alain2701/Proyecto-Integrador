@@ -6,7 +6,6 @@
 ![](https://images.cooltext.com/5136771.png)
 
 [Historia](https://alain2701.github.io/Proyecto-Integrador/HistoriadelIOS)
-
-
-
-
+[Que es iOS](https://alain2701.github.io/Proyecto-Integrador/Queesios)
+[Creadores](https://alain2701.github.io/Proyecto-Integrador/CreadoresDeIOS)
+[Caracteristocas](https://alain2701.github.io/Proyecto-Integrador/
