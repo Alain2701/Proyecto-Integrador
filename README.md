@@ -5,11 +5,11 @@
 
 ![](https://images.cooltext.com/5136771.png)
 
-[Historia](https://alain2701.github.io/Proyecto-Integrador/HistoriaDeIOS)
+[Historia](https://alain2701.github.io/Proyecto-Integrador/HistoriadeIOS)
 
 [Que es iOS](https://alain2701.github.io/Proyecto-Integrador/Queesios)
 
-[Creadores](https://alain2701.github.io/Proyecto-Integrador/CreadoresDeIOS)
+[Creadores](https://alain2701.github.io/Proyecto-Integrador/CreadoresIOS)
 
 [Ventajas y Desventajas](https://alain2701.github.io/Proyecto-Integrador/ventajasydesventajas)
 
