@@ -13,3 +13,6 @@
 *Stephen (o Stephan) Gary "Steve" Wozniak* **(Sunnyvale, Estados Unidos, 11 de agosto de 1950)**, también conocido como "Woz", es un ingeniero, filántropo, empresario e inventor estadounidense, cofundador de la compañía Apple. Se le considera uno de los padres de la revolución de las computadoras, habiendo contribuido significativamente a la invención de una computadora personal (PC, personal computer) en los años 1970. Wozniak ayudó a fundar Apple Computer (ahora Apple Inc.) junto con Steve Jobs en 1976. A mediados de la década de 1970, creó la computadora Apple I y Apple II.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Steve_Wozniak.jpg/220px-Steve_Wozniak.jpg)
+
+
+[Pagina de inicio](https://alain2701.github.io/Proyecto-Integrador/)
