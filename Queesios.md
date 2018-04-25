@@ -8,3 +8,5 @@ Los elementos de control consisten de deslizadores, interruptores y botones. La 
 
 ![Resultado de imagen para que es el sistema operativo ios](https://camo.githubusercontent.com/681f4f1d4b7911b92e75c25dd2957c1ce1c7c508/68747470733a2f2f73697465732e676f6f676c652e636f6d2f736974652f696e666f726d61746963616a6f796665326f62616368692f5f2f727372632f313437373036393832343838372f73697374656d61732d6f706572617469766f732f696f732f696f732d6c6f676f312e706e673f6865696768743d3137302677696474683d343030)
 
+
+[Pagina de inicio](https://alain2701.github.io/Proyecto-Integrador/)
