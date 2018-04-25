@@ -9,3 +9,6 @@ El  [27 de enero](https://es.wikipedia.org/wiki/27_de_enero "27 de enero")  de  
 A fecha de abril de 2010 se estima por encima de 185 000 las aplicaciones disponibles para iPhone OS a través de la  [App Store](https://es.wikipedia.org/wiki/App_Store "App Store")[7](https://es.wikipedia.org/wiki/IOS#cite_note-7)​ El  [7 de junio](https://es.wikipedia.org/wiki/7_de_junio "7 de junio")  de  [2010](https://es.wikipedia.org/wiki/2010 "2010"), durante la presentación del iPhone 4, Steve Jobs anunció que iPhone OS pasaría a ser llamado oficialmente como iOS.[](https://es.wikipedia.org/wiki/IOS#cite_note-wwdc10-8)​
 
 ![Imagen relacionada](http://www.ideachampions.com/weblogs/SteveJobsChildhoodHome%2CbyGFinch%2CFlickr%2CCC-500x334.jpg)
+
+
+[Pagina de inicio](https://alain2701.github.io/Proyecto-Integrador/)
