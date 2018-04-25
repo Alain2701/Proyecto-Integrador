@@ -14,3 +14,5 @@ La peor parte se la lleva el hecho de que Apple piensa que, mientras algo funcio
 Esta es una comparativa general de las distintas opciones que Android e iOS proporcionan a los usuarios. Por supuesto, se puede ir más allá y analizar los sistemas de juegos, el hardware, conectividad, productividad o comunicación, entre otros, pero no serí­a algo demasiado objetivo, ya que mientras que para iOS esto es más o menos igual en todos sus modelo.
 
 ![Resultado de imagen para sistema operativo ios caracteristicas](https://www.mediatrends.es/wp-content/uploads/2015/04/iOS1.png)
+
+[Pagina de inicio](https://alain2701.github.io/Proyecto-Integrador/)
